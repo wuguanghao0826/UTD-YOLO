@@ -1,1 +1,1 @@
-UTD-YOLO is an underwater garbage detection model that performs well for detection tasks with low resolution images, helping to clean up the environment.
+This project is the supporting code of the paper "UTD-YOLO: Underwater trash detection model based on improved YOLOv5", and the subsequent code will be uploaded soon.
